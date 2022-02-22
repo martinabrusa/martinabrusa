@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Martina
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on html, css, Javascript
+- 📫 How to reach me martina.brusa3@gmail.com
