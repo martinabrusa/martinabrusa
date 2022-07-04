@@ -2,4 +2,4 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on html, css, Javascript
-- 📫 How to reach me martina.brusa3@gmail.com
+- 📫 How to reach me martinabrusa3@gmail.com
